@@ -1,0 +1,5 @@
+name: FastTransfer
+version: 0.0.1
+main: Zoumi\Transfer\Main
+api: 3.0.0
+description: "Fast Transfer for ps4."
