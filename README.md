@@ -1,2 +1,2 @@
 # FastTransfer
-Simple plugin for PS4 player.
+Fast plugin for PS4 player.
